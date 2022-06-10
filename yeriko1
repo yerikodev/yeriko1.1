@@ -26,3 +26,4 @@ git config --list --show-origin: rutas de acceso a la configuración de git
 git log archivo.extensión: muestra la historia del archivo
 
 yeriko se encuentra aprendidendo git
+prndiendo a manejar git
